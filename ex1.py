@@ -1,2 +1,3 @@
 scope = 36
-print(scope)
+a = 72
+print(scope + a)
